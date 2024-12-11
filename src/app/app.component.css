@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.navbar-option {
+    margin: 30px;
+    cursor: pointer;
+}
+
+.navbar-option:hover {
+    color:darksalmon;
+}
+
+mat-toolbar {
+    background-color: antiquewhite;
+    height: 50px;
+}
